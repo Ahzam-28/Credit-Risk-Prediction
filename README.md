@@ -6,7 +6,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> **DevelopersHub Corporation — Data Science & Analytics Internship**
 > A machine-learning project that predicts whether a loan applicant will be **approved** or **denied / default** using demographic and financial features.
 
 ---
