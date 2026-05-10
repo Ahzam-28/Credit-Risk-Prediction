@@ -250,11 +250,7 @@ The notebook prints the classification report (precision, recall, F1) for both c
 
 ## 👤 Author
 
-Submitted as part of the **DevelopersHub Corporation Data Science & Analytics Internship**.
-
-- 💼 LinkedIn: *<your-linkedin>*
-- 🐙 GitHub: *<your-github>*
-- 📧 Email: *<your-email>*
+- M.Ahzam Hassan
 
 ---
 
