@@ -250,13 +250,12 @@ The notebook prints the classification report (precision, recall, F1) for both c
 
 ## 👤 Author
 
-- M.Ahzam Hassan
+- Mohammad Ahzam Hassan
 
 ---
 
 ## 🙏 Acknowledgements
 
-- **DevelopersHub Corporation** — for the internship opportunity and project brief.
 - **Analytics Vidhya / Kaggle** — for the original Loan Prediction dataset.
 - **scikit-learn** — for the modelling and evaluation tools used throughout.
 
